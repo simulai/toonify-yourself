@@ -1,5 +1,5 @@
 # Toonify yourself
-This is a demo of toonify yourself application. There is some timeout error while downloading the pkl from authors google drive. So i made it simple to download from my github profile. You can simply open the notebook and run the code cells.
+This is a demo of toonify yourself application. There is some timeout error while downloading the pkl from authors google drive. So i made it simple to download from my drive or mount your own drive. You can simply open the notebook and run the code cells.
 
 ## Citation
 All thanks to [Doron Adler]() and [Justin Pinkney]() for their awesome work.
