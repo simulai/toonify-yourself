@@ -1,6 +1,8 @@
 # Toonify yourself
 This is a demo of toonify yourself application. There is some timeout error while downloading the pkl from authors google drive. So i made it simple to download from my drive or mount your own drive. You can simply open the notebook and run the code cells.
 
+find the explaination of this [here](https://www.youtube.com/watch?v=fNgOYs3KwFg&ab_channel=LearnMachineLearning)
+
 ## Citation
 All thanks to [Doron Adler](https://twitter.com/Norod78) and [Justin Pinkney](https://twitter.com/Buntworthy) for their awesome work.
 
