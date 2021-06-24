@@ -14,21 +14,21 @@ All thanks to [Doron Adler](https://twitter.com/Norod78) and [Justin Pinkney](ht
 
 
 1.anconda
-conda create --name stylgan2py36  python=3.6
+- conda create --name stylgan2py36  python=3.6
 
-activate stylgan2py36  
+- activate stylgan2py36  
 
 2. tensorflow_gpu    1.14/ 1.15
-pip install tensorflow-gpu==1.15
+- pip install tensorflow-gpu==1.15
 
 3.No module named 'PIL'
-conda install -c conda-forge pillow
+- conda install -c conda-forge pillow
 
 4.No module named 'dlib'
-conda install -c conda-forge dlib
+- conda install -c conda-forge dlib
 
 5.No module named 'requests'
-conda install -c conda-forge requests
+- conda install -c conda-forge requests
 
 6.
 安装CUDA10.0和cudnn7.5.0
