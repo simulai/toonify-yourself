@@ -43,7 +43,7 @@ https://developer.nvidia.com/rdp/cudnn-archive
 cudnn7.5.0可使用微信登录下载
 
 下载完成后你会获得一个压缩包，里面包含了一些文件。只需要将这些文件拷贝到CUDA的同名目录就好了。
-比如
+比如 
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0
 下的 bin  include  lib
 或者安装的时候用了自定义目录 
